@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="PL\Account\ffrm_search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Account\frm_accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\Bonds\from_Bounds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\SysFormat\frm_cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\SysFormat\frm_currencies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\users\frm_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\frm_logins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\SysFormat\frm_Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PL\SysFormat\frm_ConFormat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
